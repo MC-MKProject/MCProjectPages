@@ -63,9 +63,8 @@ nav ul li a:hover {
 }
 
 .image-wrapper {
-    width: 750px;
-    margin-bottom: 350px;
-    height: 350px;
+    width: 100%;
+    margin-bottom: 30px;
 }
 
 .image-wrapper img {
@@ -115,13 +114,4 @@ footer {
     padding: 40px 0;
     color: #999999;
     font-size: 0.8rem;
-}
-
-.box {
-  background-image: url('assets/helo.jpg');
-  /* width: 700px; 
-  /* height: 350px; 
-  background-size: 100% 100%; 
-  /* background-size: cover;
-  /* background-size: contain;
 }
