@@ -116,3 +116,12 @@ footer {
     color: #999999;
     font-size: 0.8rem;
 }
+
+.box {
+  background-image: url('assets/helo.jpg');
+  /* width: 300px; 
+  /* height: 200px; 
+  background-size: 100% 100%; 
+  /* background-size: cover;
+  /* background-size: contain;
+}
